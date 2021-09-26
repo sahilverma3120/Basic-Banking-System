@@ -1,5 +1,5 @@
-### Basic-Banking-System
-
+# Basic-Banking-System
+### Inventive Bank
 `Tech stack Used : Php , MySql, Javascript, Html,Css, Bootstrap, Jquery.`
 
 
