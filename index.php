@@ -125,9 +125,6 @@ mysqli_query($conn,$add_visitor);
             <img src="assets/img/about-img.svg" class="img-fluid" alt="">
           </div>
         </div>
-
-
-
       </div>
     </section><!-- End About Section -->
 
